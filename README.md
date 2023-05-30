@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Jorge Rolo 
 - 🚀 I have just completed the Generation UK bootcamp for Data Engineering!
 - 🌱 I’m currently improving my skills in AWS and learning Kivy      
-- 👀 Passionate about Coding, Automation, ETL pipelines, AI and IOT 
+- 👀 Passionate about Coding, Automation, ETL pipelines, Design, AI and IOT 
 - 📫 Leave me a message. I'm always happy to talk about code...
 
 
