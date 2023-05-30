@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Jorge Rolo 
 - 🚀 I have just completed the Generation UK bootcamp for Data Engineering!
-- 🌱 I’m currently learning AWS and Kivy      
-- 👀 Passionate about Automation, ETL pipelines, AI and IOT 
+- 🌱 I’m currently improving my skills in AWS and learning Kivy      
+- 👀 Passionate about Coding, Automation, ETL pipelines, AI and IOT 
 - 📫 Leave me a message. I'm always happy to talk about code...
 
 
@@ -27,5 +27,4 @@
 ### You can contact me on:
 <a href="https://www.linkedin.com/in/jorgerolo/" target="_blank" rel="noreferrer">LinkedIn</a><br>
 <a href="mailto:jorgerolosanchez@gmail.com">Send email</a>
-
 
