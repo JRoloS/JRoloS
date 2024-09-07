@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Jorge Rolo 
-- 🚀 I Code For Fun and not to get rusty on it
+- 🚀 I code for fun and to keep my skills sharp.
 - 🌱 Python, JScript, PHP and currently Learning a bit of Lua
 - 📫 Leave me a message. I'm always happy to talk about code...
 
